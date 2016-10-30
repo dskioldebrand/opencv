@@ -4,6 +4,13 @@
 using namespace std;
 using namespace cv;
 
+
+/*************************************************************************
+*																		 *
+* Add some line of comments here for testing and illustation purposes.	 *
+*																		 *
+*************************************************************************/
+
 int main( int argc, char* argv[] )
 {
     CvCascadeClassifier classifier;
